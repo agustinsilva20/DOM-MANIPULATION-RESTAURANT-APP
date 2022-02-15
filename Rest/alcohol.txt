@@ -1,0 +1,36 @@
+fernet,100
+caipi,200
+gin tonic,1
+vodka,1
+absolut,1
+daikiri,1
+malibu,1
+ron,1
+jager,1
+jaggeriña,1
+aperol,1
+mojito,1
+cerveza,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1
+bebida de prueba,1

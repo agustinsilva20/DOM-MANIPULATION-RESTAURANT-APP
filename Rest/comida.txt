@@ -1,0 +1,11 @@
+Hamburguesa,500
+Ensalada,340
+Pancho,320
+Papas Fritas,200
+Fideos,100
+Milanesas,320
+Nachos Guacamole,400
+Mix de peces,200
+brownie helado,100
+caca,10000
+jero,100

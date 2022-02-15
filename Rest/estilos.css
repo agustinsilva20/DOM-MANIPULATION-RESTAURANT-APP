@@ -1,0 +1,200 @@
+*{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+.marco{
+    width:200px;
+    height:70px;
+    border:1px solid black;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color:white;
+    text-align: center;
+    background-color: rgb(173, 6, 6);
+    border-radius: 0.25rem;
+    margin-left:1rem;
+    margin-bottom:1rem;
+    cursor:pointer;
+    transition: 0.5s ease;
+
+}
+
+.marco:hover{
+    background-color: rgb(226, 30, 30);
+}
+
+body{
+    /*background-image: linear-gradient(to right bottom, #ff2525, #fc2727, #fa2a2a, #f72c2c, #f42e2e, #f63d2b, #f63d2b, #f74928, #f85426, #fc6a1d, #fe7f12, #ff9305);*/
+    background-color: black;
+    width:100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+
+
+}
+
+#pedido{
+    width:10%;
+    margin-right:5%;
+    height: 80%;
+    background-color:white;
+    border-radius: 1.5vh;
+
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoria{
+    font-size: 1.5rem;
+    margin-bottom: 2.5rem;
+    margin-top:1rem;
+    cursor:pointer;
+   
+}
+
+#listado{
+    margin:auto;
+    width:75%;
+    height: 80%;
+    background-color:white;
+    border-radius: 1.5vh;
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+#tipoProductos{
+    width:100%;
+    margin-top:1rem;
+    height:7%;
+    display:flex;
+    justify-content: space-evenly;
+
+    margin-top: 1%;
+
+   
+}
+.productos{
+    margin-top: 2%;
+    width: 100%;
+    height: auto;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+#largo{
+    width:100%;
+    height:90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+#abajo{
+    width:90%;
+    height: 15%;
+    background-color: white;
+    margin:auto;
+    border-radius: 1.5vh;
+    position:relative;
+    bottom:3rem;
+    
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#lblNumeroMesa {
+    margin-left: 1%;
+    margin-top: 1%;
+}
+#lblMonto{
+    margin-left: 1%;  
+    width:10rem;
+    height: 3rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s all ease;
+    cursor:pointer;
+}
+
+#botones{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.articuloDelPedido{
+    margin-bottom:0.25rem;
+    text-align: center;
+}
+
+.pagaEfectivo{
+    border: 1px solid black;
+    background-color: black;
+    color:white;
+    border-radius: 0.25em;  
+}
+.pagaEfectivo:hover{
+    background-color: rgb(59, 56, 56);
+}
+
+.pagaMP{
+    background-color: rgb(25, 155, 206);
+    color:white;
+    border-radius: 0.25em;  
+    width:14rem !important;
+}
+
+.pagaMP:hover{
+    background-color: rgb(8, 91, 124);}
+
+
+.regalo{
+    background-color: rgb(14, 207, 127);
+    color:white;
+    border-radius: 0.25em;  
+
+}
+.regalo:hover{
+    background-color: rgb(23, 134, 88);
+}
+
+.borrarMesa{
+    background-color: rgb(235, 19, 19);
+    color:white;
+    border-radius: 0.25em;  
+    width:14rem !important;
+}
+.borrarMesa:hover{
+    background-color: rgb(121, 22, 22);
+}
+
+.estadisticas{
+    background-color: rgb(231, 108, 7);
+    color:white;
+    border-radius: 0.25em;  
+    width:12rem !important;
+}
+.estadisticas:hover{
+    background-color: rgb(201, 96, 10);}
+
+.textosDeEstadisticas{
+    font-size:1.5rem;
+    text-align: center;
+    margin-top:10rem;
+}

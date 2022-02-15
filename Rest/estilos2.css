@@ -1,0 +1,16 @@
+*{
+    text-decoration: none;
+}
+.menu{
+    font-size:2rem;
+    color:red;
+}
+.menu ul{
+    display:flex;
+    vertical-align: center;
+    justify-content: center;
+}
+.menu li{
+    margin-left:3rem;
+    
+}
