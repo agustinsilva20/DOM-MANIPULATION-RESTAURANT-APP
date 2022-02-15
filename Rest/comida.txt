@@ -7,5 +7,3 @@ Milanesas,320
 Nachos Guacamole,400
 Mix de peces,200
 brownie helado,100
-caca,10000
-jero,100
